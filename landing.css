@@ -108,7 +108,7 @@ footer p {
 
 
 /* Small Screens */
-@media (max-width: 1000px) {
+@media (max-width: 1200px) {
   .showcase::after {
     height: 50vh;
   }

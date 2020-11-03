@@ -27,21 +27,13 @@ body {
 }
 
 .content {
-  position: absolute;
-  z-index: 1;
-  top: 10%;
-  left: 50%;
-  margin-top: 105px;
-  margin-left: -145px;
-  width: 300px;
-  height: 350px;
-  text-align: center;
-  transition: all 1000ms;
+ text-align:center;
+ margin-top: 10%;
+
 }
 
 .content .logo {
-  height: 180px;
-  width: 180px;
+
 }
 
 .content .title {
@@ -108,8 +100,7 @@ footer p {
   }
 
   .content .logo {
-    height: 140px;
-    width: 140px;
+
   }
 
   .content .text {
@@ -135,17 +126,22 @@ footer p {
 
 /* Landscape */
 @media (max-height: 500px) {
-  .content .title,
-  .content .text {
-    display: none;
-  }
 
-  .content {
-
-  }
-}
 
 .logo{
 
 left: 45%;
+
 }
+
+}
+
+
+
+
+
+
+
+
+
+

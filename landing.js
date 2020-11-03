@@ -2,7 +2,7 @@ function pgLoaded()
 
 {
 
-window.setTimeout(function(){window.location.href='https://github.com/aromaljosebaby';},5000);
+window.setTimeout(function(){window.location.href='https://www.google.co.in/';},5000);
 
 
 }

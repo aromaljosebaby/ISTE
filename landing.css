@@ -32,10 +32,12 @@ body {
 
 }
 
-.content .logo {
 
+content .logo {
+        padding-top:45%;
 
-}
+  }
+
 
 .content .title {
   font-size: 2.2rem;

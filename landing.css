@@ -93,15 +93,11 @@ footer p {
 
 .logo {
 
-    margin-top:2%;
+    margin-top:5%;
     text-align:center;
 
 
     }
-
-body{
-    background-image: url(background.jpg);
-  }
 
 
 
@@ -142,7 +138,9 @@ body{
     padding: 1.2rem 1rem;
   }
 
- 
+  body{
+    background-image: url(background.jpg);
+  }
 
 
 

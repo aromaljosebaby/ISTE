@@ -33,7 +33,7 @@ body {
 }
 
 .content .logo {
-    padding-top:45%;
+
 
 }
 
@@ -120,6 +120,11 @@ footer p {
 
   body{
     background-image: url(background.jpg);
+  }
+
+  .content .logo {
+        padding-top:45%;
+
   }
 
 
